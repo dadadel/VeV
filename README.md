@@ -1,4 +1,7 @@
 VeV
 ===
 
-VeV aim to share applications between different computers and systems
+VeV aims to share applications between several computers and systems.
+
+The idea is to drag and drop between screens of two different terminals (computer, smartphone, touchpad, whatelse).
+
