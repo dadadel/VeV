@@ -1,3 +1,10 @@
+Description
+---
+
+Vev is a software that will allow to start running other software while controlling its inputs and outputs. That will allow to use inputs and outputs of an other equipment with eventually an other operating system.
+
+![VeV run and manage software inputs/outputs](vev-n-sw.png "VeV & software")
+
 Requirements
 ---
 
