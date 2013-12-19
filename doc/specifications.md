@@ -9,7 +9,7 @@ It shall be able to manage the display on A and B's screens.
 
 It shall be interfaced with the system's inputs and outputs.
 
-It shall drive an application running on A, that is providing inputs and retrieving output.
+It shall start an application and manage its inputs and output.
 
 It shall allow a secured communication between A and B.
 
