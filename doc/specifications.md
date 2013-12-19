@@ -1,7 +1,7 @@
 Description
 ---
 
-Vev is a software that will allow to start running an other software while controlling its inputs and outputs. 
+Vev will allow to start running a software while controlling its inputs and outputs. 
 
 ![VeV run and manage software inputs/outputs](vev-n-sw.png "VeV & software")
 
