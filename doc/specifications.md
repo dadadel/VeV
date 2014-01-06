@@ -1,7 +1,7 @@
 Description
 ---
 
-Vev will allow to start running a software while controlling its inputs and outputs. 
+VeV will allow to start running a software while controlling its inputs and outputs. 
 
 ![VeV run and manage software inputs/outputs](vev-n-sw.png "VeV & software")
 
@@ -18,7 +18,7 @@ It shall be able to manage the display on A and B's screens.
 
 It shall be interfaced with the system's inputs and outputs.
 
-It shall start an application and manage its inputs and output.
+It shall start an application and manage its inputs and outputs.
 
 It shall allow a secured communication between A and B.
 
