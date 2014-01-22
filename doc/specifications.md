@@ -1,7 +1,7 @@
 Description
 ---
 
-VeV will allow to start running a software while controlling its inputs and outputs. 
+VeV is an application container wich will allow to start running a software while controlling its inputs and outputs. 
 
 ![VeV run and manage software inputs/outputs](vev-n-sw.png "VeV & software")
 
